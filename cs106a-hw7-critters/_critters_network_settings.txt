@@ -1,0 +1,6 @@
+#Critters saved network settings
+#Sun Jun 14 12:01:02 HST 2015
+backgroundColors=true
+lastHostName=
+accept=ask
+fps=11
